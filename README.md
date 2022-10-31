@@ -15,7 +15,7 @@ https://kaigedong.github.io/cnm3u/cn1080.m3u
 
 - 然后使用 IPTV Checker 对源的有效性进行筛选
 
-- 自动提交到[gh](https://github.com/kaigedong/cnm3u/tree/gh)分支，并使用 GithubPage 进行托管
+- 自动提交到[gh](https://github.com/jihanc/cnm3u/tree/gh)分支，并使用 GithubPage 进行托管
 
 ## TODO:
 
@@ -28,13 +28,3 @@ https://kaigedong.github.io/cnm3u/cn1080.m3u
 - [x] 列表顺序按照白名单顺序
 
 - [x] 添加[IPTV Checker](https://github.com/freearhey/iptv-checker)进行筛选
-
-## 如何生成自己的个性化列表
-
-- [ ] Fork 本仓库 并 到仓库的 settings/pages 设置 Source 为 gh 分支
-
-- [ ] 添加其他上游源
-
-- [ ] 按需要修改黑/白名单
-
-- [ ] 最后生成的自己的链接为 https://{你的 github 用户名}.github.io/cnm3u/cn1080.m3u
