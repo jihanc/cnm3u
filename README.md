@@ -4,7 +4,7 @@
 
 ```
 # m3u链接
-https://kaigedong.github.io/cnm3u/cn1080.m3u
+https://jihanc.github.io/cnm3u/cn1080.m3u
 ```
 
 ## 生成规则：
