@@ -5,6 +5,11 @@
 ```
 # m3u链接
 https://jihanc.github.io/cnm3u/cn1080.m3u
+
+```
+
+# 项目原地址 : [kaigedong/cnm3u](https://github.com/kaigedong/cnm3u)
+
 ```
 
 ## 生成规则：
@@ -16,15 +21,3 @@ https://jihanc.github.io/cnm3u/cn1080.m3u
 - 然后使用 IPTV Checker 对源的有效性进行筛选
 
 - 自动提交到[gh](https://github.com/jihanc/cnm3u/tree/gh)分支，并使用 GithubPage 进行托管
-
-## TODO:
-
-- [ ] 处理上游源更新导致的重复频道问题
-
-## 特点：
-
-- [x] 每天定时根据最新上游源进行更新
-
-- [x] 列表顺序按照白名单顺序
-
-- [x] 添加[IPTV Checker](https://github.com/freearhey/iptv-checker)进行筛选
