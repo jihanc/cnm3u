@@ -8,10 +8,6 @@ https://jihanc.github.io/cnm3u/cn1080.m3u
 
 ```
 
-# 项目原地址 : [kaigedong/cnm3u](https://github.com/kaigedong/cnm3u)
-
-```
-
 ## 生成规则：
 
 - 首先删除掉黑名单[blacklist.txt](./blacklist.txt)
@@ -21,3 +17,5 @@ https://jihanc.github.io/cnm3u/cn1080.m3u
 - 然后使用 IPTV Checker 对源的有效性进行筛选
 
 - 自动提交到[gh](https://github.com/jihanc/cnm3u/tree/gh)分支，并使用 GithubPage 进行托管
+
+# 项目原地址 : [kaigedong/cnm3u](https://github.com/kaigedong/cnm3u)
